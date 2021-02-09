@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, i'm Bruno 👋
+
+I'm from Brazil 🇧🇷, São Paulo - SP.
+
+I've been working on the iOS platform for more than **six years** now **using Swift and Objective-C**, but I also have more than **seven years** developing web applications and APIs **using Ruby on Rails, Angular, and NodeJs**. I have worked on applications of every size, from startups to international brands. I also have a lot of experience working with layouts and components since I started my professional career as a designer.
+
+I'm currently working for BTG Pactual (largest investment bank in Latin America) developing their new iOS banking experience.
 
 <!--
 **duarte-bruno/duarte-bruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
